@@ -9,7 +9,7 @@
   <a href="https://angel.co/u/jameschen">
     <img src="https://img.shields.io/badge/Angelist-white?style=for-the-badge&logo=angellist&logoColor=black" alt="Angelist Badge"/>
   </a>
-   📫 Or reach me at: jameschen09@yahoo.com 
+   📫 Or reach me at: jamesyihchen@gmail.com
 </div>
 
 <!--
