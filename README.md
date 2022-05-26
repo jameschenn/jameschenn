@@ -1,6 +1,6 @@
 ## Hello World, my name is James
 
-<p>I'm just a guy who likes to problem solve, design, and build things so he become a Software Engineer.</p>
+<p>I'm just a guy who likes to problem solve, design, and build things so he became a Software Engineer.</p>
 
 ## Connect with me on:
   <a href="https://www.linkedin.com/in/jameschenn/">
