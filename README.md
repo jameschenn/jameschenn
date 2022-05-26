@@ -1,14 +1,15 @@
-## Hello World, my name is James 👋
+## Hello World, my name is James
 
+<p>I'm just a guy who likes to problem solve, design, and build things so he become a Software Engineer.</p>
 
-
-  <p>Connect with me on:</p>
+## Connect with me on:
   <a href="https://www.linkedin.com/in/jameschenn/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://angel.co/u/jameschen">
     <img src="https://img.shields.io/badge/Angelist-white?style=for-the-badge&logo=angellist&logoColor=black" alt="Angelist Badge"/>
   </a>
+   📫 Or reach me at: jameschen09@yahoo.com 
 </div>
 
 <!--
@@ -51,3 +52,7 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
 </div>
 
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jameschenn&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jameschenn)](https://github.com/anuraghazra/github-readme-stats)
